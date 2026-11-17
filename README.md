@@ -1,12 +1,12 @@
 ## 🎓 Education
 
-- 상명대학교 | 빅데이터융합전공, (부)휴먼AI공학
+- Sangmyung University | Major in Big Data Convergence, Minor in Human AI Engineering
 
 ## 🤝 Activities
 
-- 잇타 10기 | 백엔드 
-- 멋쟁이사자처럼 14기 | 백엔드 
-- FT-ing | 교내 핀테크 학술동아리 
+- IT’s TIME (잇타), 10th Cohort | Backend Developer
+- LIKELION University, 14th Cohort | Backend Developer
+- FT-ing | University FinTech Academic Club
 
 ## 🛠️ Tech Stack
 
