@@ -1,5 +1,3 @@
-# Hi, I'm Sunghoon Lee 👋
-
 ## 🎓 Education
 
 - 상명대학교 | 빅데이터융합전공, (부)휴먼AI공학
