@@ -44,7 +44,7 @@
 
 ### Infra & DevOps
 
-![AWS](https://img.shields.io/badge/AWS%20%28EC2%2C%20RDS%2C%20S3%29-232F3E?style=flat-square)
+![AWS (EC2, RDS, S3)](https://img.shields.io/badge/AWS%20%28EC2%2C%20RDS%2C%20S3%29-232F3E?style=flat-square)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
