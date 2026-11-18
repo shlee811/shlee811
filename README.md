@@ -1,6 +1,7 @@
 ## 🎓 Education
 
-- Sangmyung University | Major in Big Data Convergence, Minor in Human AI Engineering
+- Sangmyung University
+| Major in Big Data Convergence, Minor in Human AI Engineering
 
 ## 🤝 Activities
 
