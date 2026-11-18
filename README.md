@@ -7,7 +7,7 @@
 
 - IT’s TIME (잇타), 10th Cohort | Backend Developer
 - LIKELION University, 14th Cohort | Backend Developer
-- FT-ing | Sangmyung University FinTech Academic Club
+- FT-ing | Sangmyung University FinTech Academic Club | Member
 
 ## 🛠️ Tech Stack
 
