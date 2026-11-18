@@ -1,4 +1,3 @@
-Hi 👋, I'm Lee SungHoon
 -Backend Developer & DevOps
 ## 🎓 Education
 
